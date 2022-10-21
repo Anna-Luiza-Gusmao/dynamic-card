@@ -19,7 +19,9 @@
 
 body {
   font-size: 1.6rem;
-  background: #121214;
+  background-image: url("/wallpaper.jpg");
+  height: auto;
+  width: 100vw;
 
   display: flex;
   place-items: center;

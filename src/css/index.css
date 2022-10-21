@@ -8,7 +8,9 @@
   }
 
   body {
-    background: #202024;
+    background-image: url("/wallpaper.jpg");
+    height: auto;
+    width: 100vw;
   }
 
   #app {
